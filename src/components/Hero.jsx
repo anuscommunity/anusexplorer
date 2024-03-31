@@ -26,12 +26,12 @@ function Hero({ scrollToBelieve }) {
                     <button onClick={scrollToBelieve} className="flex justify-center items-center py-[15px] px-[40px] bg-transparent hover:bg-blue-700 border-2 border-custom-blue hover:border-transparent transition duration-300 ease-in-out lg:text-[1.5vw] lg:leading-[2.2vw] font-semibold text-custom-blue hover:text-white rounded-[40px] shadow-lg hover:shadow-xl" style={{ outline: 'none' }}>
                         <span className="mr-2">💰</span> How to buy $ANUS
                     </button>
-                    <a href="https://coinmarketcap.com/currencies/uranus-sol/" className="flex justify-center items-center py-[10px] px-[10px] bg-transparent hover:bg-blue-700 transition duration-300 ease-in-out text-custom-blue hover:text-white rounded-full shadow-lg hover:shadow-xl" style={{ outline: 'none', border: '2px solid', borderColor: 'currentColor' }}>
+                    {/* <a href="https://coinmarketcap.com/currencies/uranus-sol/" className="flex justify-center items-center py-[10px] px-[10px] bg-transparent hover:bg-blue-700 transition duration-300 ease-in-out text-custom-blue hover:text-white rounded-full shadow-lg hover:shadow-xl" style={{ outline: 'none', border: '2px solid', borderColor: 'currentColor' }}>
     <svg viewBox="0 0 24 24" width="24" height="24" xmlns="http://www.w3.org/2000/svg">
         <circle cx="12" cy="12" r="10" fill="currentColor"/>
         <text x="50%" y="50%" dy=".35em" fill="white" fontSize="12" textAnchor="middle" fontFamily="Arial" fontWeight="bold">C</text>
     </svg>
-</a>
+</a> */}
 <a href="https://t.me/UranusCommunity" className="flex justify-center items-center py-[10px] px-[10px] bg-transparent hover:bg-blue-700 transition duration-300 ease-in-out text-custom-blue hover:text-white rounded-full shadow-lg hover:shadow-xl" style={{ outline: 'none', border: '2px solid', borderColor: 'currentColor' }}>
     <svg stroke="currentColor" fill="currentColor" strokeWidth="0" viewBox="0 0 448 512" focusable="false" className="w-5 h-5 lg:w-6 lg:h-6" xmlns="http://www.w3.org/2000/svg">
         <path d="M446.7 98.6l-67.6 318.8c-5.1 22.5-18.4 28.1-37.3 17.5l-103-75.9-49.7 47.8c-5.5 5.5-10.1 10.1-20.7 10.1l7.4-104.9 190.9-172.5c8.3-7.4-1.8-11.5-12.9-4.1L117.8 284 16.2 252.2c-22.1-6.9-22.5-22.1 4.6-32.7L418.2 66.4c18.4-6.9 34.5 4.1 28.5 32.2z"></path>

@@ -89,8 +89,8 @@ const Believe = forwardRef((props, ref) => {
           Welcome to the wild side of crypto - where memes aren't just dreams, and astrology isn’t just your daily horoscope.
         </p>
         
-        <a href="https://coinmarketcap.com/currencies/uranus-sol/" className="block mx-auto text-center py-3 px-8 bg-blue-500 text-lg lg:text-xl xl:text-2xl font-semibold text-white rounded-full hover:bg-blue-600 transition-colors duration-300 ease-in-out">
-          Get Started
+        <a href="https://dexscreener.com/solana/cu4pxu7vh7cfgjmsfzfehpp9aj6fa7ciqdsbvs5hekzk" className="block mx-auto text-center py-3 px-8 bg-blue-500 text-lg lg:text-xl xl:text-2xl font-semibold text-white rounded-full hover:bg-blue-600 transition-colors duration-300 ease-in-out">
+          View Chart On DexScreener
         </a>
       </div>
     </>

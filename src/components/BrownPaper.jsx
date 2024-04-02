@@ -282,7 +282,7 @@ const BrownPaper = () => {
             <br />
             <br />
             For this is the time we need to wake up, have a coffee, and take a
-            cellestial dump on the power of their printing machine.
+            celestial dump on the power of their printing machine.
             <br />
             <br />
             All these laughs, are expensed by the new world order. <br />
